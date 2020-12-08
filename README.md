@@ -1,0 +1,1 @@
+'usar el comando 'tsc' para hacer los cambios a la carpeta dist '
