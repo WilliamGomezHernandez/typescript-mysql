@@ -1,1 +1,1 @@
-'usar el comando 'tsc' para hacer los cambios a la carpeta dist '
+'usar el comando 'tsc' para hacer los cambios a la carpeta dist y descargar typescript '
